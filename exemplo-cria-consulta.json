@@ -1,0 +1,13 @@
+{
+    "nomePaciente" : "Alex",
+    "especialidadeMedica" : "fadsfsd",
+    "dataHora" : "10/08/2021 14:00:00",
+    "consultorio" : 
+    {
+        "id" : 1
+    },
+    "medico" : 
+     {
+        "id" : 1
+    }
+}
